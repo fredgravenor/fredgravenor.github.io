@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### My Projects
 
-[Project 1 Title](/sample_page)
+[Topic modelling for novel insights](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
